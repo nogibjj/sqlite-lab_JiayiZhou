@@ -1,7 +1,7 @@
 """
 ETL-Query script
 """
-
+# fire --command line tool
 from mylib.extract import extract
 from mylib.transform_load import load
 from mylib.query import query
